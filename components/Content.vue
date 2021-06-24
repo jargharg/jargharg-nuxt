@@ -70,19 +70,19 @@ export default {
       recentProjectLinks: [
         {
           link: 'https://hannahandjarodgetmarried.com',
-          description: 'Wedding invite',
+          description: 'wedding invitation',
         },
         {
           link: 'https://autopoetry.jarodhargreav.es',
           description: 'Autopoetry',
         },
         {
-          link: 'https://music-for-airports.jarodhargreav.es',
-          description: 'Music for Airports',
+          link: 'https://sequencer.jarodhargreav.es',
+          description: 'a basic sequencer',
         },
         {
-          link: 'https://gsap.jarodhargreav.es',
-          description: 'GSAP Experiments',
+          link: 'https://music-for-airports.jarodhargreav.es',
+          description: 'Music for Airports',
         },
         {
           link: 'https://vibesniper.com',
