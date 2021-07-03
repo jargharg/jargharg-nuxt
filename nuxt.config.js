@@ -26,6 +26,22 @@ export default {
     ],
   },
 
+  firebase: {
+    config: {
+      apiKey: process.env.VUE_APP_FIREBASE_API_KEY,
+      authDomain: 'jargharg.firebaseapp.com',
+      databaseURL: 'https://jargharg.firebaseio.com',
+      projectId: 'jargharg',
+      storageBucket: 'jargharg.appspot.com',
+      messagingSenderId: '673415082314',
+      appId: '1:673415082314:web:28d332c427763f356351b3',
+      measurementId: 'G-D9S0JKDGN2',
+    },
+    services: {
+      analytics: true,
+    },
+  },
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [],
 
@@ -39,7 +55,7 @@ export default {
   buildModules: [],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [],
+  modules: ['@nuxtjs/firebase'],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
