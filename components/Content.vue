@@ -65,7 +65,7 @@ export default {
       codepenLinks: [
         'https://codepen.io/jargharg/pen/MWbzvJO',
         'https://codepen.io/jargharg/pen/KKgMLGv',
-        'https://codepen.io/jargharg/pen/poJvoWp',
+        'https://codepen.io/jargharg/pen/YzQQdoo',
       ],
       recentProjectLinks: [
         {
@@ -78,11 +78,11 @@ export default {
         },
         {
           link: 'https://sequencer.jarodhargreav.es',
-          description: 'a basic sequencer',
+          description: 'sequencer',
         },
         {
-          link: 'https://music-for-airports.jarodhargreav.es',
-          description: 'Music for Airports',
+          link: 'https://in-dreams.jarodhargreav.es',
+          description: 'music visualiser (in progress!)',
         },
         {
           link: 'https://vibesniper.com',
